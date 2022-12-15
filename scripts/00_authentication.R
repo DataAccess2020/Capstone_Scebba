@@ -4,4 +4,4 @@ library(rtweet)
 
 auth <- rtweet_app()
 
-auth_save(auth, "auth")
+auth_save(auth, "aut")
