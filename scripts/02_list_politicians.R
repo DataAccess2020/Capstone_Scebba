@@ -1,10 +1,10 @@
 auth_as("aut")
 
-right_pol = lists_members(
+ lists_members(
   list_id = "1603313961453162498",
   slug = NULL, 
   owner_user = NULL,
-  n = 3,
+  n = 1,
   cursor = "-1",
   token = NULL,
   retryonratelimit = TRUE,
