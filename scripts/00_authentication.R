@@ -12,4 +12,10 @@ token <- create_token(
 
 auth <- rtweet_app()
 
-auth_save(auth, "aut")
+auth_save(auth, "sarascebba")
+
+auth_as("sarascebba")
+
+aut_token <- rtweet_app(token)
+
+auth_setup_default()
