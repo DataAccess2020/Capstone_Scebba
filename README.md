@@ -1,2 +1,2 @@
 # Capstone_Scebba
-Capstone project about perception of immigration 
+Capstone project about politics in Lombardia
