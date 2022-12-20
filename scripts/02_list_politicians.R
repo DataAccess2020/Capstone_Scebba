@@ -1,5 +1,5 @@
-right_pol = lists_members(
-  list_id = "1603313961453162498",
+right_lomb = lists_members(
+  list_id = "1604889112456138769",
   slug = NULL, 
   owner_user = NULL,
   n = 3,
@@ -10,35 +10,11 @@ right_pol = lists_members(
   parse = TRUE,
 )
 
-left_pol = lists_members(
-  list_id = "1603314511724924928",
+left_lomb = lists_members(
+  list_id = "1605175421473112064",
   slug = NULL, 
   owner_user = NULL,
   n = 3,
-  cursor = "-1",
-  token = NULL,
-  retryonratelimit = TRUE,
-  verbose = TRUE,
-  parse = TRUE,
-)
-
-M5S = lists_members(
-  list_id = "1603314947794079745",
-  slug = NULL, 
-  owner_user = NULL,
-  n = 2,
-  cursor = "-1",
-  token = NULL,
-  retryonratelimit = TRUE,
-  verbose = TRUE,
-  parse = TRUE,
-)
-
-terzo_polo = lists_members(
-  list_id = "1603315192292687874",
-  slug = NULL, 
-  owner_user = NULL,
-  n = 2,
   cursor = "-1",
   token = NULL,
   retryonratelimit = TRUE,
